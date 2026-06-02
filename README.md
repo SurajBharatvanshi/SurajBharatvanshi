@@ -17,7 +17,7 @@
 
 I'm a **Full-Stack Web Developer & Graphic Designer** and **BCA graduate** passionate about building secure, production-ready web applications. I enjoy writing clean, efficient code and delivering real-world digital solutions that make a difference.
 
-- 🎓 BCA from **LNCT University, Bhopal** (CGPA: 8.01)
+- 🎓 BCA from **LNCT University, Bhopal** (CGPA: 8.15)
 - 💼 Former **Web Development Intern** at ApexPlanet Software Pvt. Ltd.
 - 🔐 Focused on **security best practices** — CSRF protection, prepared statements, session handling
 - 🌐 Experienced in building **full-stack applications** from concept to deployment
@@ -230,7 +230,7 @@ A simple and responsive calculator web app with clean UI.
 
 | Degree | Institution | Year | Score |
 |---|---|---|---|
-| Bachelor of Computer Applications (BCA) | LNCT University, Bhopal | 2026 | CGPA: 8.01 |
+| Bachelor of Computer Applications (BCA) | LNCT University, Bhopal | 2026 | CGPA: 8.15 |
 | Class XII — Science (JAC Board) | +2 High School Atka, Giridih | 2023 | 81.6% |
 | Class X (JAC Board) | +2 High School Atka, Giridih | 2021 | 90.6% |
 
@@ -243,6 +243,9 @@ A simple and responsive calculator web app with clean UI.
 ✅ Attention to Detail   ✅ Adaptability
 ✅ Team Collaboration    ✅ Security-First Development
 ✅ Graphic Design        ✅ UI/UX Thinking
+✅ Team Work             ✅ Time Management
+✅ Team Lead             ✅ Technical Support
+✅ Customer Support      ✅ Problem Analysis
 ```
 
 ---
